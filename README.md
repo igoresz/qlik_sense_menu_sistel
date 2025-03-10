@@ -6,7 +6,7 @@ Original repo of menu_sistel is there: https://github.com/JordiFerrerB/sistel_me
 Here is a clone of one of original versions with some <b>css injections</b>.
 It was done quickly, may have errors or troubles... If you want to use it, so be sure that you use it as is, without any "garanty or warranty" or any other obligations|regulations.
 <br><br>
-Anyway, my task was solved quickly and it works in my environment without errors.
+Anyway, my task was solved quickly and it works in my environment without any errors.
 <br><br>
 Thank you.
 <hr>
